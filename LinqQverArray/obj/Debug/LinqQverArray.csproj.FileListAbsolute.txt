@@ -1,0 +1,6 @@
+F:\百度云同步盘\我的学习\6、C#\练习(对  精通C#（第6版）源代码  进行练习)\第十二章 LINQ\LinqQverArray\bin\Debug\LinqQverArray.exe.config
+F:\百度云同步盘\我的学习\6、C#\练习(对  精通C#（第6版）源代码  进行练习)\第十二章 LINQ\LinqQverArray\bin\Debug\LinqQverArray.exe
+F:\百度云同步盘\我的学习\6、C#\练习(对  精通C#（第6版）源代码  进行练习)\第十二章 LINQ\LinqQverArray\bin\Debug\LinqQverArray.pdb
+F:\百度云同步盘\我的学习\6、C#\练习(对  精通C#（第6版）源代码  进行练习)\第十二章 LINQ\LinqQverArray\obj\Debug\LinqQverArray.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、C#\练习(对  精通C#（第6版）源代码  进行练习)\第十二章 LINQ\LinqQverArray\obj\Debug\LinqQverArray.exe
+F:\百度云同步盘\我的学习\6、C#\练习(对  精通C#（第6版）源代码  进行练习)\第十二章 LINQ\LinqQverArray\obj\Debug\LinqQverArray.pdb

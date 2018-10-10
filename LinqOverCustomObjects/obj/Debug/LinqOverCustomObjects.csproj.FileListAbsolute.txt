@@ -1,0 +1,5 @@
+F:\百度云同步盘\我的学习\6、C#\练习(对  精通C#（第6版）源代码  进行练习)\第十二章 LINQ\LinqOverCustomObjects\bin\Debug\LinqOverCustomObjects.exe.config
+F:\百度云同步盘\我的学习\6、C#\练习(对  精通C#（第6版）源代码  进行练习)\第十二章 LINQ\LinqOverCustomObjects\bin\Debug\LinqOverCustomObjects.exe
+F:\百度云同步盘\我的学习\6、C#\练习(对  精通C#（第6版）源代码  进行练习)\第十二章 LINQ\LinqOverCustomObjects\bin\Debug\LinqOverCustomObjects.pdb
+F:\百度云同步盘\我的学习\6、C#\练习(对  精通C#（第6版）源代码  进行练习)\第十二章 LINQ\LinqOverCustomObjects\obj\Debug\LinqOverCustomObjects.exe
+F:\百度云同步盘\我的学习\6、C#\练习(对  精通C#（第6版）源代码  进行练习)\第十二章 LINQ\LinqOverCustomObjects\obj\Debug\LinqOverCustomObjects.pdb
